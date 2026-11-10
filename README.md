@@ -8,6 +8,9 @@ Full Stack Developer and aspiring Cloud Engineer. I build apps end to end and de
 - **AI/ML:** TensorFlow Lite
 - **Other:** Godot 4, Git/GitHub
 
+### Currently Learning
+React · Node.js · Docker
+
 ### Featured Projects
 - **Memorya**: map-based memory sharing website, live on an Azure VM (Windows Server + IIS) with Firebase Firestore
 - **Capstone Glow**: AI makeup recommendation app. I built the Python backend and the TFLite face shape model
