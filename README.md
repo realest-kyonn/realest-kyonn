@@ -13,4 +13,4 @@ Full Stack Developer and aspiring Cloud Engineer. I build apps end to end and de
 - **Patchwork**: cybersecurity education game
 - **Memorya**: Azure-hosted web app with Firebase
 
-📫 [LinkedIn](PASTE-YOUR-LINKEDIN-URL-HERE)
+📫 [LinkedIn](https://www.linkedin.com/in/realest-kean/)
